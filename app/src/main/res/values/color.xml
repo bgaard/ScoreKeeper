@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="score_color">#000000</color>
+    <color name="team_color">#FDFEFE</color>
+    <color name="background_all">#27AE60</color>
+    <color name="separating_line">#FDFEFE</color>
+</resources>
